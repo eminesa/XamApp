@@ -10,6 +10,7 @@
   <uses-permission android:name="android.permission.ACCESS_MOCK_LOCATION" />
   <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
   <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+  <application android:label="ZiraatApp.Android">
   <meta-data android:name="com.google.android.geo.API_KEY" android:value="AIzaSyBf3tEmdR18S-2v0E1i1x0oqcXJ9imntT4"/>
-  <application android:label="ZiraatApp.Android"></application>
+  </application>
 </manifest>
